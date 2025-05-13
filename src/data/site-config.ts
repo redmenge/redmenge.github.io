@@ -98,7 +98,7 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Hello and welcome my room in the internet for you to visit',
+        title: 'Hello and welcome to my room in the internet for you to visit',
         text: "I'm **Germán Redondo**, a Network Engineer taking the cybersecurity pathway, dedicated to absorbing knowledge of today's technology in a daily basis. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. Feel free to explore some of my projects and on <a href='https://github.com/redmenge'>GitHub</a> or follow me on <a href='www.linkedin.com/in/german-redondo'>LinkedIn</a>.",
         image: {
             src: '/about.jpg',
