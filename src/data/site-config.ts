@@ -50,7 +50,7 @@ const siteConfig: SiteConfig = {
     headerNavLinks: [
         {
             text: 'Home',
-            href: '/home'
+            href: '/site-config.ts'
         },
         {
             text: 'Projects',
