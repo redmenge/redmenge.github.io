@@ -86,7 +86,7 @@ const siteConfig: SiteConfig = {
     socialLinks: [
         {
             text: 'LinkedIn',
-            href: 'www.linkedin.com/in/german-redondo'
+            href: 'https://linkedin.com/in/german-redondo'
         },
         {
             text: 'GitHub',
