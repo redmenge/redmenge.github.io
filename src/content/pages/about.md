@@ -10,31 +10,29 @@ seo:
 
 ![Alt text for image](/about.jpeg)
 
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Germán Redondo - Cybersecurity Analyst
 
-## Ethan Donovan - Web Developer based in Estonia
-
-**Greetings!** I'm Ethan Donovan, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+**Hello! ^^ ** I'm Germán, a Networks and Cybersecurity professional residing in the picturesque landscapes of [Colombia](https://en.wikipedia.org/wiki/Colombia). I started my journey when I first studied my Bachelors of Science in Electronics Engineering with a keen focus on networks and telecom principles, ever since then my path went onwards into discovering the wonders of the digital world and how we went from 0s and 1s to achieving high performance transferring processes machines that are able to do complex calculations in matter of a second's fraction.
 
 ## Skills and Expertise
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+I have a strong foundation on security principles such as the NIST Frameworks, fundamental knowledge on the TCP/IP and OSI model's layers and how they play their roles in the Internet, dominion over programming languages such as Python, JS, HTML, CSS, C++ and ohers; managing and configuring network devices such as Firewalls, Server and Workstations. I have developed many tools within the start of my career to ensure a multidisciplinary behaviour in bringing best solutions.
 
-## Innovation and Problem-Solving
+## Providing best effort solutions
 
-I thrive on solving complex problems and transforming ideas into functional, elegant websites. Whether it's optimizing performance, implementing new features, or troubleshooting issues, I approach each challenge with enthusiasm and a commitment to delivering high-quality solutions.
+I thrive on solving complex problems and deliver secure products that make sure all layers of defense are being implemented in my work. To making sure firewall rules cover the entirety of a corporate network in keeping them safe to proposing practices that will make enterprises aware of the danger that they have if they click on suspicious links or files and the consequences it may bring.
 
 ## Global Perspective, Local Impact
 
-Living in Estonia has not only influenced my appreciation for nature and culture but has also shaped my approach to web development. I understand the importance of creating digital solutions that resonate with local audiences while maintaining a global perspective.
+Living and growing up in Colombia has helped me understand that no matter where we are, we are always at the stake of being attacked by unknown threats, whether it's a physical or a digital threat we must always make sure to be prepared for this sort of threats and tackle it by using the best practices we have been developing.
 
 ## Continuous Learning
 
-The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements. I'm always eager to expand my skill set and embrace emerging technologies that enhance the functionality and aesthetics of the websites I create.
+The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements. I'm always eager to expand my skill set and embrace emerging technologies and how can we use it for a safe environment.
 
 ## Collaboration and Communication
 
-I believe in the power of collaboration and effective communication. Whether working with clients, designers, or fellow developers, I value clear communication to ensure the success of every project.
+I believe in the power of collaboration and effective communication. Whether working with clients, or fellow IT professionals, I value clear communication to ensure the success of every project.
 
 ## Get in Touch
 
