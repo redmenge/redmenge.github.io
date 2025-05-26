@@ -12,7 +12,7 @@ seo:
 
 ## Germán Redondo - Cybersecurity Analyst
 
-**Hello! ^^ ** I'm Germán, a Networks and Cybersecurity professional residing in the picturesque landscapes of [Colombia](https://en.wikipedia.org/wiki/Colombia). I started my journey when I first studied my Bachelors of Science in Electronics Engineering with a keen focus on networks and telecom principles, ever since then my path went onwards into discovering the wonders of the digital world and how we went from 0s and 1s to achieving high performance transferring processes machines that are able to do complex calculations in matter of a second's fraction.
+**Hello! ^^**  I'm Germán, a Networks and Cybersecurity professional residing in the picturesque landscapes of [Colombia](https://en.wikipedia.org/wiki/Colombia). I started my journey when I first studied my Bachelors of Science in Electronics Engineering with a keen focus on networks and telecom principles, ever since then my path went onwards into discovering the wonders of the digital world and how we went from 0s and 1s to achieving high performance transferring processes machines that are able to do complex calculations in matter of a second's fraction.
 
 ## Skills and Expertise
 
