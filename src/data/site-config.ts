@@ -57,8 +57,8 @@ const siteConfig: SiteConfig = {
             href: '/projects'
         },
         {
-            text: 'Blog',
-            href: '/blog'
+            text: 'About me',
+            href: '/about'
         },
         {
             text: 'Tags',
@@ -67,8 +67,8 @@ const siteConfig: SiteConfig = {
     ],
     footerNavLinks: [
         {
-            text: 'About',
-            href: '/about'
+            text: 'Blog',
+            href: '/blog'
         },
         {
             text: 'Contact',
