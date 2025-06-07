@@ -20,7 +20,7 @@ import { sortItemsByDateDesc } from '../../utils/data-utils';
 
 export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
     const posts = (await getCollection('blog')).sort(sortItemsByDateDesc);
-    return paginate(posts, { pageSize: siteConfig.postsPerPage || 1 });
+    return paginate(posts, { pageSize: siteConfig.postsPerPage || 2 });
 }
 
 type Props = { page: Page<CollectionEntry<'blog'>> };
