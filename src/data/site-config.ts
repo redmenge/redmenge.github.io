@@ -2,6 +2,8 @@ export type Image = {
     src: string;
     alt?: string;
     caption?: string;
+    width?: number;  // Puede ser número (ej: 800) o string ("100%")
+    height?: number;
 };
 
 export type Link = {
@@ -102,7 +104,10 @@ const siteConfig: SiteConfig = {
         text: "I’m **Germán Redondo**, a network engineer taking the cybersecurity pathway. I am dedicated to absorbing knowledge of today’s technology daily. My approach involves embracing intuition, conducting enough research, and leveraging aesthetics as a catalyst for exceptional products. Feel free to explore some of my projects and work on <a href='https://github.com/redmenge'>GitHub</a> or follow me on <a href='https://www.linkedin.com/in/german-redondo'>LinkedIn</a>. :)",
         image: {
             src: '/about.jpg',
-            alt: 'A person sitting at a desk in front of a computer'
+            alt: 'A person sitting at a desk in front of a computer',
+            width:500,
+            height:300,
+            
         },
         actions: [
             {
