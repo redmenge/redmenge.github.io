@@ -94,7 +94,7 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'TryHackMe',
-            href: 'https://twitter.com/'
+            href: 'https://tryhackme.com/p/RedXXI'
         }
     ],
     hero: {
