@@ -8,7 +8,7 @@ seo:
     alt: Project preview
 ---
 
-![Project preview](/project-1.jpg)
+![Project preview](/NetworkMap_dashboard_1.png)
 
 **Project Overview:**
 Zabbix Agent provides tracking and monitoring of the network behaviour within metrics such as performance indicators, machine health conditions, suspicious activity, and other indicators between the network infrastructure elements (servers, devices, OS, IoT, etc).
