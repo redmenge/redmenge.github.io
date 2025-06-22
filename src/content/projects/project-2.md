@@ -9,7 +9,7 @@ seo:
     alt: Project preview
 ---
 
-![Project preview](/imagen1.png)
+![Project preview](/Imagen1.png)
 
 **Project Overview:**
 By setting up a Windows Server 2019 Active Directory Domain Controller environment, we are able to simulate a corporate network that needs better practices and will need security principles to be implemented in order to mitigate all possible attack vectors we may encounter during any working space. Principles such as "Principle of Least Privilege", "Just Enough Administration", configuring the proper Group Policy Objects, running Powershell scripts, and others. 
@@ -50,4 +50,4 @@ By setting up a Windows Server 2019 Active Directory Domain Controller environme
 
 This Windows Server Active Directory lab provided hands-on experience with enterprise-grade security practices, including access control, policy enforcement, and threat mitigation. By implementing industry-standard protections, the project demonstrates practical sysadmin and cybersecurity skills applicable to modern IT environments.
 
-![Project preview](/imagen2.png)
+![Project preview](/image2.png)
