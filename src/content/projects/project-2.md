@@ -1,5 +1,5 @@
 ---
-title: 'Windows 2019 Server Active Directory Domain Controller Set Up Lab'
+title: 'Windows Server 2019 Active Directory Domain Controller Set Up Lab'
 description: Created a Windows Server 2019 AD DC environment with a DC virtual machine and MS machine, performing various security tasks to close the gap between vulnerabilities and threats by implementing PoLP, JEA, GPOs, and security best practices.
 publishDate: 'Jun 21 2025'
 isFeatured: true
