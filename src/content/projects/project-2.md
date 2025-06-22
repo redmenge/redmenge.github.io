@@ -44,7 +44,7 @@ By setting up a Windows Server 2019 Active Directory Domain Controller environme
 
 - Enforced LDAPS (LDAP over SSL/TLS) to encrypt directory queries.
 - Configured Azure AD Connect with password hash sync for hybrid identity (optional but modern).
-- Implemented Multi-Factor Authentication (MFA) for admin accounts via RADIUS/NPS or Azure MFA.
+- Implemented Multi-Factor Authentication (MFA) for admin accounts via Azure MFA.
 
 ## Outcome
 
