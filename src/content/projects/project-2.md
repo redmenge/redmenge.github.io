@@ -1,7 +1,7 @@
 ---
-title: 'TimeWarp - Travel Agency Website'
-description: Explore the possibilities of time travel through an immersive website for a fictional travel agency, complete with dynamic destination timelines and interactive historical events.
-publishDate: 'Oct 2 2023'
+title: 'Windows 2019 Server Active Directory Domain Controller Set Up Lab'
+description: Created a Windows Server 2019 AD DC environment with a DC virtual machine and MS machine, performing various security tasks to close the gap between vulnerabilities and threats by implementing PoLP, JEA, GPOs, and security best practices.
+publishDate: 'Jun 21 2025'
 isFeatured: true
 seo:
   image:
@@ -9,56 +9,45 @@ seo:
     alt: Project preview
 ---
 
-![Project preview](/project-2.jpg)
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+![Project preview](/imagen1.png)
 
 **Project Overview:**
-TimeWarp Travel Agency aims to redefine the travel experience by offering an innovative and immersive online platform that explores the concept of time travel. The website combines cutting-edge technology with captivating storytelling to provide users with a unique journey through time.
-
-> Working with Ethan Donovan was a game-changer for our online presence. Their innovative solutions and attention to detail turned our vision into a reality. The website not only looks fantastic but also functions seamlessly. A true professional who exceeded our expectations!
+By setting up a Windows Server 2019 Active Directory Domain Controller environment, we are able to simulate a corporate network that needs better practices and will need security principles to be implemented in order to mitigate all possible attack vectors we may encounter during any working space. Principles such as "Principle of Least Privilege", "Just Enough Administration", configuring the proper Group Policy Objects, running Powershell scripts, and others. 
 
 ## Objectives
 
-1. Create a visually stunning and user-friendly website that captures the essence of time travel.
-2. Integrate interactive elements to engage users and make the experience memorable.
-3. Develop a responsive design to ensure a seamless user experience across various devices.
+1. Deploy a Windows Server 2019 AD DC with their MS machine.
+2. Ensuring all security principles are being implemented for a safer active directory.
+3. Covering all possible methods to develop best security practices.
 
 ## Features
 
-1. **Dynamic Destination Timelines:**
+1. **Least Privilege Access & Role-Based Administration:**
 
-- Users can explore destinations through dynamic timelines, showcasing significant historical events, cultural developments, and architectural milestones.
-- Interactive sliders allow users to navigate through different eras, providing a visual representation of the historical evolution of each location.
+- Implemented granular RBAC using Organizational Units (OUs) and delegated permissions to limit user/admin access.
+- Enforced separation of duties by defining custom admin roles (e.g., Help Desk vs. Domain Admins).
+- Used Privileged Access Workstations (PAWs) for sensitive operations to reduce credential exposure.
 
-2. **Interactive Historical Events:**
+2. **Group Policy Security Hardening:**
 
-- Users can click on specific points in the timeline to reveal detailed information about key historical events related to the chosen destination.
-- Rich multimedia content, including images, videos, and articles, provides a comprehensive understanding of each event.
+- Applied Microsoft Security Baselines via GPOs.
+- Configured Account Policies: Password complexity, lockout thresholds, and Kerberos ticket lifetimes.
+- Disabled legacy protocols (LAN Manager, SMBv1) and enforced AES encryption for Kerberos.
 
-3. **Personalized Time Travel Planner:**
+3. **Credential Theft Mitigation**
 
-- A personalized planner feature enables users to create their time travel itineraries by selecting specific eras and destinations.
-- The system suggests thematic experiences, such as attending historical events or meeting famous personalities.
+- Deployed LAPS (Local Administrator Password Solution) to randomize and manage local admin passwords.
+- Enabled Protected Users group to block weak credential caching.
+- Restricted LAPS password access to specific security groups to limit exposure.
 
-4. **Time-Port Virtual Reality Experience:**
+4. **Secure Authentication & Federation:**
 
-- For an extra layer of immersion, users can opt for the Time-Port VR experience, allowing them to virtually step into different time periods and explore the surroundings in 360 degrees.
-
-5. **Chronicle Explorer Blog:**
-
-- A blog section, "Chronicle Explorer," offers in-depth articles and stories about various historical periods and their impact on the destinations featured on the platform.
-- Users can engage with the content, comment, and share their own historical insights.
-
-## Technology Stack
-
-- **Frontend:** [Astro.js](https://astro.build/) for a dynamic and responsive user interface and [Tailwind CSS](https://tailwindcss.com/) for styling.
-- **Backend:** Node.js for handling server-side logic and API integration.
-- **Database:** MongoDB for efficient storage and retrieval of historical data.
-- **VR Integration:** A-Frame framework for creating immersive virtual reality experiences.
+- Enforced LDAPS (LDAP over SSL/TLS) to encrypt directory queries.
+- Configured Azure AD Connect with password hash sync for hybrid identity (optional but modern).
+- Implemented Multi-Factor Authentication (MFA) for admin accounts via RADIUS/NPS or Azure MFA.
 
 ## Outcome
 
-The TimeWarp Travel Agency Website successfully brings the concept of time travel to life, providing users with a captivating and educational experience. The website not only serves as a travel planning tool but also as an interactive platform that encourages users to explore and appreciate the rich tapestry of human history.
+This Windows Server Active Directory lab provided hands-on experience with enterprise-grade security practices, including access control, policy enforcement, and threat mitigation. By implementing industry-standard protections, the project demonstrates practical sysadmin and cybersecurity skills applicable to modern IT environments.
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+![Project preview](/imagen2.png)
